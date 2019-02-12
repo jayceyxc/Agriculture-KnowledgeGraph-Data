@@ -95,3 +95,10 @@ A*/
 #train data
 TrainDataBaseOnWiki/train_data*.txt
 TrainDataBaseOnWiki/train_data_all.txt
+idea/
+.idea/workspace.xml
+.idea/libraries
+.idea/*.*
+.DS_Store
+*/.DS_Store
+*.pyc
